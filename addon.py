@@ -138,7 +138,7 @@ def show_actors(movie_id):
                 'info': {
                     'title': actor['name'],
                     'plot': actor['biography'],
-                    'tagline': tagline
+                    'tagline': tagline,
                     'title': actor['name'] + ' - ' + actor['role'],
                     'plot': actor['biography'],
                     'tagline': tagline
@@ -351,7 +351,6 @@ def getMoviesByGenre(genre,page):
         movieIds.append(id)
     return movieIds
 
-def getMoviesByActor(actor,page):
 def getMoviesByPerson(person_id,page,source):
     movieIds=[]
     data = {}
