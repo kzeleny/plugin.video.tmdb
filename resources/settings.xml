@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+        <setting label="30046" type="lsep" />
+        <setting label="30050" type="enum" id="sort_by" default="2" lvalues="30051|30052|30053|30054" />
+        <setting id="release_year" type="number" label="30047" default="0" />
+        <setting id="rating_limit" type="enum" label="30049" default="0" values="None|G|PG|PG-13|R|NC-17" />
+        <setting label="30045" type="lsep"/>
+        <setting id="g_action" type="bool" label="30009" default="true" />
+        <setting id="g_adventure" type="bool" label="30010" default="true" />
+        <setting id="g_animation" type="bool" label="30011" default="true" />
+        <setting id="g_comedy" type="bool" label="30012" default="true" />
+        <setting id="g_crime" type="bool" label="30013" default="true" />
+        <setting id="g_disaster" type="bool" label="30014" default="true" />
+        <setting id="g_documentary" type="bool" label="30015" default="true" />
+        <setting id="g_drama" type="bool" label="30016" default="true" />
+        <setting id="g_eastern" type="bool" label="30017" default="true" />
+        <setting id="g_erotic" type="bool" label="30018" default="true" />
+        <setting id="g_family" type="bool" label="30019" default="true" />
+        <setting id="g_fan_film" type="bool" label="30020" default="true" />
+        <setting id="g_fantasy" type="bool" label="30021" default="true" />
+        <setting id="g_film_noir" type="bool" label="30022" default="true" />
+        <setting id="g_foreign" type="bool" label="30023" default="true" />
+        <setting id="g_history" type="bool" label="30024" default="true" />
+        <setting id="g_holiday" type="bool" label="30025" default="true" />
+        <setting id="g_horror" type="bool" label="30026" default="true" />
+        <setting id="g_indie" type="bool" label="30027" default="true" />
+        <setting id="g_music" type="bool" label="30028" default="true" />
+        <setting id="g_musical" type="bool" label="30029" default="true" />
+        <setting id="g_mystery" type="bool" label="30030" default="true" />
+        <setting id="g_neo_noir" type="bool" label="30031" default="true" />
+        <setting id="g_road_movie" type="bool" label="30032" default="true" />
+        <setting id="g_romance" type="bool" label="30033" default="true" />
+        <setting id="g_science_fiction" type="bool" label="30034" default="true" />
+        <setting id="g_short" type="bool" label="30035" default="true" />
+        <setting id="g_sport" type="bool" label="30036" default="true" />
+        <setting id="g_sporting_event" type="bool" label="30037" default="true" />
+        <setting id="g_sports_film" type="bool" label="30038" default="true" />
+        <setting id="g_suspense" type="bool" label="30039" default="true" />
+        <setting id="g_tv_movie" type="bool" label="30040" default="true" />
+        <setting id="g_thriller" type="bool" label="30041" default="true" />
+        <setting id="g_war" type="bool" label="30042" default="true" />
+        <setting id="g_western" type="bool" label="30043" default="true" />
+</settings>

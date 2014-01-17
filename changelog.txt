@@ -1,0 +1,6 @@
+0.0.1 January, 11 2013
+- initial release
+  Features:
+    Display Movie informaiton from themoviedb.org. view Popular, Upcoming, Now Showing, and Top Rated.
+    Also discover movies, search browse by genres. View Trailers from YouTube when available. Context menu to 
+    Add to CouchPotato, Add to TrackIt and lookup similar movies.
